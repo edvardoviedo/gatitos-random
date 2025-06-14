@@ -1,6 +1,8 @@
 # gatitos-random
 Descubre tu gatito del día (:
 
+![Vista previa del script](./image.png)
+
 # 🐱 Gatitos Random
 
 Este proyecto en Python te muestra un **gatito aleatorio** cada vez que lo ejecutas, gracias a la API de [TheCatAPI](https://thecatapi.com/).
